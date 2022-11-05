@@ -1,0 +1,28 @@
+[
+    {
+        "Name": "amit",
+        "Email": "amit12@gmail.com",
+        "Number": "34563434",
+        "Gender": "on",
+        "DOB": "1999-11-15",
+        "Nominee_Name": "Forhad",
+        "Nominee_Age": "23",
+        "Nominee_Gender": "on",
+        "Relation_with_User": "Brother",
+        "Tin_Number": "300002",
+        "Password": "Aa12@@"
+    },
+    {
+        "Name": "forhad",
+        "Email": "fdfrfb@gmail.com",
+        "Number": "345677",
+        "Gender": "on",
+        "DOB": "1999-11-01",
+        "Nominee_Name": "Tasnova",
+        "Nominee_Age": "22",
+        "Nominee_Gender": "on",
+        "Relation_with_User": "Doughter",
+        "Tin_Number": "345001",
+        "Password": "Ab12@@"
+    }
+]
